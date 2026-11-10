@@ -1,0 +1,8 @@
+.cache/
+npm-debug.log*
+dist/
+.next/
+*.log
+node_modules/
+.pnpm-store/
+.env
